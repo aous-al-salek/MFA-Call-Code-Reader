@@ -48,7 +48,7 @@ copies or substantial portions of the Software.
 
 ## Getting Started
 
-This program takes an alpha-numeric code as a singular argument without white-spaces and plays mp3 files corresponding to the letters and numbers of the code.
+This program takes an alpha-numeric code as a singular argument without white-spaces and plays mp3 files corresponding to the letters and numbers of the code. Make sure to acquire better audio files for the letters and numbers. The included mp3 files of letters, numbers, and error messages are only examples, as some of them are not of good quality.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
@@ -64,7 +64,7 @@ There are no requirements other than the [`playsound`](https://pypi.org/project/
 
 ## Installation
 
-Depends heavily on your implementation. In its current state, you can just run it using a command with the code as a singular argument without white-spaces.
+Depends heavily on your implementation. In its current state, you can just run it using a command with the code as a singular argument without white-spaces. Make sure to acquire better audio files for the letters and numbers. The included mp3 files of letters, numbers, and error messages are only examples, as some of them are not of good quality.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
