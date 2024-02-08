@@ -23,7 +23,7 @@ copies or substantial portions of the Software.
   <h1 align="center">MFA Call Code Reader</h3>
 
   <p align="center">
-    A simple python script that converts alpha-numeric codes to speech. Can be hooked to a VoIP softphone and serve as part of an MFA call service.
+    A simple Python script that converts alpha-numeric codes to speech. Can be hooked to a VoIP softphone and serve as part of an MFA call service.
     <br />
     <br />
     <a href="https://github.com/aous-al-salek/MFA-Call-Code-Reader/issues">Report Bug</a>
@@ -48,7 +48,7 @@ copies or substantial portions of the Software.
 
 ## Getting Started
 
-This program takes an alpha-numeric code as an argument and plays mp3 files corresponding to the letters and numbers of the code.
+This program takes an alpha-numeric code as a singular argument without white-spaces and plays mp3 files corresponding to the letters and numbers of the code.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
@@ -64,7 +64,7 @@ There are no requirements other than the [`playsound`](https://pypi.org/project/
 
 ## Installation
 
-Depends heavily on your implementation. In its current state, you can just run it using a command with the code as argument.
+Depends heavily on your implementation. In its current state, you can just run it using a command with the code as a singular argument without white-spaces.
 
 <p align="right">(<a href="#readme-top">⬆️</a>)</p>
 
